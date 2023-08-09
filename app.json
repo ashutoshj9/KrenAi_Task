@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Kren_Assessment",
+    "slug": "Kren_Assessment",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.ashutoshjha.Kren_Assessment"
+    }
+  },
+  "name": "Kren_Assessment"
+}

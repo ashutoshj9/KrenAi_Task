@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "person": "Emma Watson",
+    "personProfile": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+    "star": 4,
+    "date": "10/11/2022",
+    "review": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful."
+  },
+  {
+    "id": 1,
+    "person": "Emma Watson",
+    "personProfile": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+    "star": 4,
+    "date": "10/11/2022",
+    "review": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful."
+  },
+  {
+    "id": 2,
+    "person": "Emma Watson",
+    "personProfile": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+    "star": 4,
+    "date": "10/11/2022",
+    "review": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful."
+  }
+]

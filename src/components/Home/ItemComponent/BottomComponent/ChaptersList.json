@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "SSC Mathematics",
+    "data": [
+      { "id": "A.", "name": "Relational Operators" },
+      { "id": "B.", "name": "Relational Operators" },
+      { "id": "C.", "name": "Relational Operators" },
+      { "id": "D.", "name": "Relational Operators" },
+      { "id": "E.", "name": "Relational Operators" },
+      { "id": "F.", "name": "Relational Operators" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "SSC Mathematics",
+    "data": [
+      { "id": "A.", "name": "Relational Operators" },
+      { "id": "B.", "name": "Relational Operators" },
+      { "id": "C.", "name": "Relational Operators" },
+      { "id": "D.", "name": "Relational Operators" },
+      { "id": "E.", "name": "Relational Operators" },
+      { "id": "F.", "name": "Relational Operators" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "SSC Mathematics",
+    "data": [
+      { "id": "A.", "name": "Relational Operators" },
+      { "id": "B.", "name": "Relational Operators" },
+      { "id": "C.", "name": "Relational Operators" },
+      { "id": "D.", "name": "Relational Operators" },
+      { "id": "E.", "name": "Relational Operators" },
+      { "id": "F.", "name": "Relational Operators" }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "SSC Mathematics",
+    "data": [
+      { "id": "A.", "name": "Relational Operators" },
+      { "id": "B.", "name": "Relational Operators" },
+      { "id": "C.", "name": "Relational Operators" },
+      { "id": "D.", "name": "Relational Operators" },
+      { "id": "E.", "name": "Relational Operators" },
+      { "id": "F.", "name": "Relational Operators" }
+    ]
+  }
+]
